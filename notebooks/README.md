@@ -1,0 +1,1 @@
+These notebooks contains content from the [PyTorch quick start guide](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) and [slides](https://www.uio.no/studier/emner/matnat/ifi/IN5400/v20/material/lectureslides/in5400_week4_2020_pytorch_lecture4.pdf) made by David Völgyes.
